@@ -25,13 +25,13 @@ class Provider(BaseProvider):
 
     classroom_types = (
 
-                          'Bilgisayar Laboratuarları', 'CAD Laboratuarları', 'Dikim Atölyesi', 'Elektronik Laboratuarı',
-                          'Endüstriyel Tasarım El Aletleri Atölyesi', 'Endüstriyel Tasarım Model Maket Atölyesi',
-                          'Fotoğraf Stüdyosu', 'Grafik Tasarım Laboratuarı', 'Kalıp Dikim Atölyesi', 'MAC Laboratuarları',
-                          'Mikroişlemci Laboratuarı', 'Moda Tasarım Stüdyosu', 'Mütercim Tercümanlık Laboratuarı',
-                          'Psikoloji Laboratuarları','Radyo Stüdyosu', 'Resim Atölyesi', 'Smart Class (Akıllı Sınıf)',
-                          'Silent Study Kişisel Erişim Merkezi', 'Video-Audio G Kişisel Erişim Merkezi', 'Self Access Center',
-                          'Simülasyon Laboratuarı', 'Tasarım Stüdyoları', 'Tekstil Arşivi', 'Tekstil Baskı Atölyesi'
+                        'Bilgisayar Laboratuarları', 'CAD Laboratuarları', 'Dikim Atölyesi', 'Elektronik Laboratuarı',
+                        'Endüstriyel Tasarım El Aletleri Atölyesi', 'Endüstriyel Tasarım Model Maket Atölyesi',
+                        'Fotoğraf Stüdyosu', 'Grafik Tasarım Laboratuarı', 'Kalıp Dikim Atölyesi', 'MAC Laboratuarları',
+                        'Mikroişlemci Laboratuarı', 'Moda Tasarım Stüdyosu', 'Mütercim Tercümanlık Laboratuarı',
+                        'Psikoloji Laboratuarları','Radyo Stüdyosu', 'Resim Atölyesi', 'Smart Class (Akıllı Sınıf)',
+                        'Silent Study Kişisel Erişim Merkezi', 'Video-Audio G Kişisel Erişim Merkezi', 'Self Access Center',
+                        'Simülasyon Laboratuarı', 'Tasarım Stüdyoları', 'Tekstil Arşivi', 'Tekstil Baskı Atölyesi'
                       )
 
 
