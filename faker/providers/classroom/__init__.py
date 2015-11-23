@@ -33,6 +33,6 @@ class Provider(BaseProvider):
                           'Silent Study Kişisel Erişim Merkezi', 'Video-Audio G Kişisel Erişim Merkezi', 'Self Access Center',
                           'Simülasyon Laboratuarı', 'Tasarım Stüdyoları', 'Tekstil Arşivi', 'Tekstil Baskı Atölyesi'
                       )
-    )
+
 
     classroom_formats = ('{{bina}} {{kod}}')
